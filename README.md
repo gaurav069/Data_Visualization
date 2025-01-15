@@ -55,7 +55,7 @@ This project showcases interactive data visualization using **Matplotlib** and *
 ## 📊 Example Output
 
 ### Interactive Sine Wave Plot:
-![Example Sine Wave Plot](Image.png)
+![Example Sine Wave Plot](ML_2_GauravKulkarni/Image.png)
 
 - Adjust sliders to observe the wave transformation in real-time.
 
